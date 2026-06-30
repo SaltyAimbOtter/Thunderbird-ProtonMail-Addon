@@ -1,5 +1,4 @@
-browser.spacesToolbar.addButton('ProtonMail', {
-    title: "Proton Mail",
-    defaultIcons: "mail-logo-greyscale.svg",
-    url: "https://mail.proton.me"
+browser.spaces.create("ProtonMail", "https://mail.proton.me", {
+  title: "Proton Mail",
+  defaultIcons: "mail-logo-greyscale.svg",
 });
