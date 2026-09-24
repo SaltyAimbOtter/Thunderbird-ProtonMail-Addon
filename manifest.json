@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Proton Mail Toolbar Button",
   "description": "Adds a Proton Mail button to the toolbar.",
-  "version": "1.1",
+  "version": "1.2",
   "author": "Lars Baum",
   "browser_specific_settings": {
     "gecko": {
